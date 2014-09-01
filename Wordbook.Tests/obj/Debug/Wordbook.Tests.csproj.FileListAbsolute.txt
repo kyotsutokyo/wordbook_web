@@ -1,0 +1,10 @@
+C:\work\Wordbook\Wordbook.Tests\bin\Debug\Wordbook.Tests.dll.config
+C:\work\Wordbook\Wordbook.Tests\bin\Debug\Wordbook.Tests.dll
+C:\work\Wordbook\Wordbook.Tests\bin\Debug\Wordbook.Tests.pdb
+C:\work\Wordbook\Wordbook.Tests\bin\Debug\Wordbook.dll
+C:\work\Wordbook\Wordbook.Tests\bin\Debug\Thrift.dll
+C:\work\Wordbook\Wordbook.Tests\bin\Debug\NLog.dll
+C:\work\Wordbook\Wordbook.Tests\bin\Debug\Wordbook.pdb
+C:\work\Wordbook\Wordbook.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\work\Wordbook\Wordbook.Tests\obj\Debug\Wordbook.Tests.dll
+C:\work\Wordbook\Wordbook.Tests\obj\Debug\Wordbook.Tests.pdb

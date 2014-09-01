@@ -1,0 +1,15 @@
+C:\work\Wordbook\Wordbook\bin\Wordbook.dll
+C:\work\Wordbook\Wordbook\bin\Wordbook.pdb
+C:\work\Wordbook\Wordbook\bin\NLog.dll
+C:\work\Wordbook\Wordbook\bin\System.Data.DataSetExtensions.dll
+C:\work\Wordbook\Wordbook\bin\System.Data.dll
+C:\work\Wordbook\Wordbook\bin\System.Data.SQLite.dll
+C:\work\Wordbook\Wordbook\bin\System.Web.Mvc.dll
+C:\work\Wordbook\Wordbook\bin\System.Web.Routing.dll
+C:\work\Wordbook\Wordbook\bin\Thrift.dll
+C:\work\Wordbook\Wordbook\bin\System.Data.SQLite.xml
+C:\work\Wordbook\Wordbook\bin\System.Web.Mvc.xml
+C:\work\Wordbook\Wordbook\bin\ja\System.Web.Mvc.resources.dll
+C:\work\Wordbook\Wordbook\obj\Debug\ResolveAssemblyReference.cache
+C:\work\Wordbook\Wordbook\obj\Debug\Wordbook.dll
+C:\work\Wordbook\Wordbook\obj\Debug\Wordbook.pdb
